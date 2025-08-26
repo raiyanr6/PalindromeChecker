@@ -24,3 +24,7 @@ Storing the original integer.
 Reversing the digits using modulus (%) and division (/).
 
 Comparing the reversed number with the original.
+
+
+<img width="873" height="480" alt="Screenshot 2025-08-27 035150" src="https://github.com/user-attachments/assets/2d5b4f13-864d-41d7-a9fb-4e5cb307484b" />
+
